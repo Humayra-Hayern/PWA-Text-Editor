@@ -64,6 +64,7 @@ The image below displays the website's appearance and functionality.
 ## Link
 * https://texteditorhh.herokuapp.com/
 
-
+## Credits
+University of Birmingham
 
 
